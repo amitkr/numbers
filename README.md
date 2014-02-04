@@ -3,7 +3,7 @@ numbers
 
 Understanding numbers.
 
-![alt text](https://github.com/amitkr/numbers/blob/master/out/Number.png "Numbers memory map")
+![alt text](https://raw2.github.com/amitkr/numbers/master/out/Number.png "Numbers memory map")
 
 NOTE: (Number.mm)[Number.mm] was created using (Freemind)[http://freemind.sourceforge.net/wiki/index.php/Main_Page]
 
