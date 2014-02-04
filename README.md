@@ -5,7 +5,7 @@ Understanding numbers.
 
 ![alt text](https://raw2.github.com/amitkr/numbers/master/out/Number.png "Numbers memory map")
 
-NOTE: (Number.mm)[Number.mm] was created using (Freemind)[http://freemind.sourceforge.net/wiki/index.php/Main_Page]
+NOTE: [Number.mm](Number.mm) was created using [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 
 ###### Symbol References
 * [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
